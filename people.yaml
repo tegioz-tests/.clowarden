@@ -11,6 +11,10 @@ teams:
   - name: team3
     maintainers:
       - cynthia-sg
+  - name: team4
+    maintainers:
+      - tegioz
+      - cynthia-sg
 repositories:
   - name: .github
     external_collaborators:
