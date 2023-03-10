@@ -8,9 +8,11 @@ teams:
   - name: team2
     maintainers:
       - tegioz
+    members: []
   - name: team3
     maintainers:
       - cynthia-sg
+    members: []
 repositories:
   - name: .github
     external_collaborators:
