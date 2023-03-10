@@ -8,8 +8,10 @@ teams:
   - name: team2
     maintainers:
       - tegioz
-    members: []
-  - name: team3
+      - cynthia-sg
+    members:
+      - someoneelse
+  - name: team4
     maintainers:
       - cynthia-sg
     members: []
