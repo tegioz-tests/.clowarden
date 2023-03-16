@@ -9,8 +9,10 @@ teams:
     maintainers:
       - tegioz
     members: []
-  - maintainers:
+  - name: team3
+    maintainers:
       - cynthia-sg
+      - tegioz
     members: []
 repositories:
   - name: .github
