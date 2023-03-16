@@ -9,8 +9,7 @@ teams:
     maintainers:
       - tegioz
     members: []
-  - name: team3
-    maintainers:
+  - maintainers:
       - cynthia-sg
     members: []
 repositories:
