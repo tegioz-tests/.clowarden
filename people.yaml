@@ -26,4 +26,4 @@ repositories:
     visibility: private
   - name: invalid-repo
     external_collaborators:
-      cynthia-sg: read
+    cynthia-sg: read
