@@ -23,7 +23,4 @@ repositories:
       team2: admin
     external_collaborators:
       cynthia-sg: write
-    visibility: private
-name:
-  external_collaborators:
-    cynthia-sg: read
+    visibility: none
