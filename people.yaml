@@ -3,9 +3,9 @@ teams:
   - name: team1
     maintainers:
       - tegioz
-    members:
       - cynthia-sg
-  - name: team2
+    members: []
+  - name: team10
     maintainers:
       - tegioz
     members: []
