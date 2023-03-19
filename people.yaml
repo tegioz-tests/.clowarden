@@ -23,4 +23,6 @@ repositories:
       team2: admin
     external_collaborators:
       cynthia-sg: write
-      jhekjdeh
+  - name: test
+    external_collaborators:
+      cynthia-sg: read
