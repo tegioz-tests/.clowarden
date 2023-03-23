@@ -14,14 +14,15 @@ teams:
       - cynthia-sg
     members: []
   - name: team4
-    maintainers: []
+    maintainers:
+      - cccccccccc
     members: []
     formation:
       - team1
   - name: team5
-    maintainers: []
-    members:
+    maintainers:
       - cynthia-sg
+    members: []
 repositories:
   - name: .github
     external_collaborators:
