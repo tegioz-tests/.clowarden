@@ -33,6 +33,7 @@ repositories:
       team2: admin
     external_collaborators:
       cynthia-sg: write
+      cccc: read
     visibility: private
   - name: new-repo
     teams:
