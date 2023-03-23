@@ -3,13 +3,26 @@ teams:
   - name: team1
     maintainers:
       - tegioz
+      - cynthia-sg
     members:
       - cynthia-sg
   - name: team2
     maintainers:
       - tegioz
     members: []
+  - name: team2
+    maintainers:
+      - tegioz
+    members: []
   - name: team3
+    maintainers:
+      - cynthia-sg
+    members: []
+  - name: team4
+    maintainers: []
+    members:
+      - cynthia-sg
+  - name: ""
     maintainers:
       - cynthia-sg
     members: []
