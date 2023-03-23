@@ -38,7 +38,7 @@ repositories:
       team2: admin
     external_collaborators:
       cynthia-sg: write
-    visibility: none
+    visibility: public
   - name: new-repo
     teams:
       team5: admin
