@@ -15,6 +15,7 @@ teams:
     members: []
   - name: team4
     maintainers: []
+    members: []
     formation:
       - team1
   - name: team5
