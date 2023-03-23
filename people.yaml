@@ -24,6 +24,11 @@ teams:
     maintainers:
       - cynthia-sg
     members: []
+  - name: team5
+    displayName: Team Five
+    maintainers:
+      - cccccccc
+    members: []
 repositories:
   - name: .github
     external_collaborators:
