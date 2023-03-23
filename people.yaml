@@ -42,4 +42,4 @@ repositories:
   - name: new-repo
     teams:
       team5: admin
-    visibility: none
+    visibility: private
