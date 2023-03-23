@@ -40,7 +40,3 @@ repositories:
     external_collaborators:
       cynthia-sg: write
     visibility: public
-  - name: new-repo
-    teams:
-      team5: admin
-    visibility: private
