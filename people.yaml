@@ -17,8 +17,6 @@ teams:
     maintainers:
       - cccccccccc
     members: []
-    formation:
-      - team1
   - name: team5
     displayName: Team Five
     maintainers:
@@ -27,8 +25,7 @@ teams:
   - name: team6
     maintainers:
       - cccccccc
-    members: []
-    formation: iiii
+    members: ooioi
 repositories:
   - name: .github
     external_collaborators:
