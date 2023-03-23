@@ -19,6 +19,7 @@ teams:
     formation:
       - team1
   - name: team5
+    maintainers: []
     members:
       - cynthia-sg
 repositories:
