@@ -20,6 +20,7 @@ teams:
     formation:
       - team1
   - name: team5
+    displayName: Team Five
     maintainers:
       - cynthia-sg
     members: []
