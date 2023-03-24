@@ -3,16 +3,22 @@ teams:
   - name: team1
     maintainers:
       - tegioz
+      - tegioz2
     members:
       - cynthia-sg
   - name: team2
     maintainers:
       - tegioz
     members: []
+  - name: team8
+    maintainers:
+      - tegioz
+    members: []
   - name: team3
     maintainers:
+      - tegioz
+    members:
       - cynthia-sg
-    members: []
 repositories:
   - name: .github
     external_collaborators:
