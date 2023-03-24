@@ -5,6 +5,11 @@ teams:
       - tegioz
     members:
       - cynthia-sg
+      - tegioz
+  - name: team2
+    maintainers:
+      - tegioz
+    members: []
   - name: team2
     maintainers:
       - tegioz
