@@ -3,6 +3,7 @@ teams:
   - name: team1
     maintainers:
       - tegioz
+      - tegioz2
     members:
       - cynthia-sg
   - name: team2
