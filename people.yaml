@@ -3,9 +3,10 @@ teams:
   - name: team1
     maintainers:
       - tegioz
+      - tegioz2
     members:
       - cynthia-sg
-  - name: team2
+  - name: team6
     maintainers:
       - tegioz
     members: []
@@ -14,13 +15,15 @@ teams:
       - cynthia-sg
     members: []
 repositories:
-  - name: .github
+  - name: .github2
     external_collaborators:
       cynthia-sg: write
+      tegioz: read
     visibility: private
   - name: gitvote-tests
     teams:
-      team2: admin
+      team1: admin
     external_collaborators:
       cynthia-sg: write
-    visibility: private
+      tegioz: admin
+    visibility: public
