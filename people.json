@@ -13,6 +13,19 @@
         ]
     },
     {
+        "name": "user3",
+        "languages": [
+            "Spanish",
+            "English"
+        ],
+        "projects": [
+            "artifact-hub"
+        ],
+        "category": [
+            "xx"
+        ]
+    },
+    {
         "name": "user2"
     }
 ]
