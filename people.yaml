@@ -18,7 +18,7 @@ repositories:
     external_collaborators:
       cynthia-sg: write
     visibility: private
-  - name: gitvote-tests
+  - name: gitvote-tests-2
     teams:
       team2: admin
     external_collaborators:
