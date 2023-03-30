@@ -29,3 +29,5 @@ repositories:
       team2: admin
       team3: write
     visibility: public
+  - name: new-repo
+    visibility: private
