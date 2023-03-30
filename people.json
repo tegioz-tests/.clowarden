@@ -1,5 +1,6 @@
 [
     {
+        "name": "user1",
         "bio": "Bio test",
         "company": "Test"
     }
