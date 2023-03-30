@@ -3,6 +3,7 @@
         "name": "user1",
         "bio": "Bio test",
         "company": "Test",
-        "languages":["Spanish","English"]
+        "languages":["Spanish","English"],
+        "projects":["artifact-hub"]
     }
 ]
