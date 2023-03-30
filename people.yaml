@@ -33,10 +33,3 @@ repositories:
     external_collaborators:
       cynthia-sg: write
     visibility: private
-  - name: new-repo
-    external_collaborators:
-      cynthia-sg: write
-  - name: new-repo-2
-    visibility: public
-  - name: new-repo-3
-    visibility: private
