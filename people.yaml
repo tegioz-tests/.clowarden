@@ -20,7 +20,8 @@ teams:
   - name: team5
     maintainers:
       - user1
-    members: test
+    members:
+      - user2
 repositories:
   - name: .github
     external_collaborators:
@@ -35,7 +36,6 @@ repositories:
   - name: new-repo
     external_collaborators:
       cynthia-sg: write
-    visibility: none
   - name: new-repo-2
     visibility: public
   - name: new-repo-3
