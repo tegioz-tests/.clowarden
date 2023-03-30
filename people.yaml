@@ -31,7 +31,7 @@ repositories:
     external_collaborators:
       user1: admin
       user2: write
-      user3: none
+      user3: triage
     visibility: public
   - name: new-repo-1
     visibility: private
