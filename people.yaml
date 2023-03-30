@@ -28,6 +28,10 @@ repositories:
     teams:
       team2: admin
       team3: write
+    external_collaborators:
+      user1: admin
+      user2: write
+      user3: none
     visibility: public
   - name: new-repo-1
     visibility: private
