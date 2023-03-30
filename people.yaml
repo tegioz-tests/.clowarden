@@ -12,6 +12,7 @@ teams:
   - name: team3
     maintainers:
       - cynthia-sg
+      - user1
     members: []
 repositories:
   - name: .github
