@@ -32,6 +32,7 @@ repositories:
       user1: admin
       user2: write
       user3: triage
+      user4: read
     visibility: public
   - name: new-repo-1
     visibility: private
