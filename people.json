@@ -2,6 +2,7 @@
     {
         "name": "user1",
         "bio": "Bio test",
-        "company": "Test"
+        "company": "Test",
+        "languages":["Spanish","English"]
     }
 ]
