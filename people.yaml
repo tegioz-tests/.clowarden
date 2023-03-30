@@ -39,4 +39,6 @@ repositories:
       user4: read
     visibility: public
   - name: new-repo-1
+    teams:
+      team2: triage
     visibility: private
