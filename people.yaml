@@ -24,3 +24,9 @@ repositories:
     external_collaborators:
       cynthia-sg: write
     visibility: private
+  - name: new-repo
+    teams:
+      team2: admin
+      team3: write
+    external_collaborators: test
+    visibility: none
