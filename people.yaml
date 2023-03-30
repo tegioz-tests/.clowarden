@@ -1,10 +1,13 @@
 organization: tegioz-tests
 teams:
   - name: team1
-    maintainers:
-      - tegioz
+    maintainers: []
     members:
       - cynthia-sg
+  - name: team2
+    maintainers:
+      - tegioz
+    members: []
   - name: team2
     maintainers:
       - tegioz
