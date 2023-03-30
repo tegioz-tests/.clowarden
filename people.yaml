@@ -17,6 +17,10 @@ teams:
     maintainers:
       - user1
     members: []
+  - name: team4
+    maintainers:
+      - user1
+    members: []
 repositories:
   - name: .github
     external_collaborators:
