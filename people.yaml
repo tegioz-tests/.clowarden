@@ -31,3 +31,5 @@ repositories:
     visibility: public
   - name: new-repo
     visibility: private
+  - name: new-repo-1
+    visibility: private
