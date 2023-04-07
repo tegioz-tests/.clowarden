@@ -1,5 +1,6 @@
 organization: tegioz-tests
 teams:
+  - name: team1
     maintainers:
       - tegioz
     members:
