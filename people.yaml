@@ -1,6 +1,5 @@
 organization: tegioz-tests
 teams:
-  - name: team1
     maintainers:
       - tegioz
     members:
@@ -14,6 +13,7 @@ teams:
       - cynthia-sg
     members: []
 repositories:
+  - name: .github
     external_collaborators:
       cynthia-sg: write
     visibility: private
