@@ -14,7 +14,13 @@ teams:
       - cynthia-sg
     members: []
 repositories:
-  - name: .github
+  - name: ""
+    external_collaborators:
+      cynthia-sg: write
+    visibility: private
+  - name: gitvote-tests
+    teams:
+      team2: admin
     external_collaborators:
       cynthia-sg: write
     visibility: private
