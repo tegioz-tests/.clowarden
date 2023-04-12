@@ -13,6 +13,11 @@ teams:
     maintainers:
       - cynthia-sg
     members: []
+  - name: team4
+    maintainers:
+      - cynthia-sg
+    members:
+      - tegioz
 repositories:
   - name: .github
     external_collaborators:
