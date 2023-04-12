@@ -35,4 +35,5 @@ repositories:
     teams:
       teams2: write
     external_collaborators:
+      tegioz: admin
       cynthia-sg: read
