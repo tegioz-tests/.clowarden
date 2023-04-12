@@ -36,4 +36,4 @@ repositories:
       team2: write
     external_collaborators:
       tegioz: admin
-      cynthia-sg: write
+      cynthia-sg: admin
