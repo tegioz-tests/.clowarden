@@ -8,6 +8,7 @@ teams:
   - name: team2
     maintainers:
       - tegioz
+      - cynthia-sg
     members: []
   - name: team3
     maintainers:
