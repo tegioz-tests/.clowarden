@@ -13,11 +13,6 @@ teams:
     maintainers:
       - cynthia-sg
     members: []
-  - name: team4
-    maintainers:
-      - cynthia-sg
-    members:
-      - tegioz
 repositories:
   - name: .github
     external_collaborators:
@@ -36,9 +31,4 @@ repositories:
       cynthia-sg: admin
       tegioz: admin
     visibility: private
-  - name: sample-repo
-    teams:
-      team2: write
-    external_collaborators:
-      tegioz: admin
-      cynthia-sg: admin
+
