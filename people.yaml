@@ -16,19 +16,19 @@ teams:
 repositories:
   - name: .github
     external_collaborators:
-      cynthia-sg: write
+      cynthia-sg: admin
       tegioz: admin
     visibility: private
   - name: .clowarden
     external_collaborators:
-      cynthia-sg: write
+      cynthia-sg: admin
       tegioz: admin
     visibility: private
   - name: gitvote-tests
     teams:
       team2: admin
     external_collaborators:
-      cynthia-sg: write
+      cynthia-sg: admin
       tegioz: admin
     visibility: private
   - name: sample-repo
@@ -36,4 +36,4 @@ repositories:
       team2: write
     external_collaborators:
       tegioz: admin
-      cynthia-sg: read
+      cynthia-sg: write
