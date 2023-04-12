@@ -12,7 +12,8 @@ teams:
   - name: team3
     maintainers:
       - cynthia-sg
-    members: []
+    members:
+      - tegioz
 repositories:
   - name: .github
     external_collaborators:
