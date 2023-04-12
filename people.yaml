@@ -32,8 +32,6 @@ repositories:
       tegioz: admin
     visibility: private
   - name: sample-repo
-    teams:
-      team2: read
     external_collaborators:
       tegioz: admin
       cynthia-sg: admin
