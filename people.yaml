@@ -12,8 +12,8 @@ teams:
   - name: team3
     maintainers:
       - cynthia-sg
-    members:
       - clomonitor1
+    members: []
 repositories:
   - name: .github
     external_collaborators:
