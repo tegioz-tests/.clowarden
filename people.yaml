@@ -12,6 +12,7 @@ teams:
   - name: team3
     maintainers:
       - cynthia-sg
+      - Clomonitor3
     members: []
 repositories:
   - name: .github
