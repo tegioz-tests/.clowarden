@@ -38,9 +38,3 @@ repositories:
       tegioz: admin
       cynthia-sg: admin
     visibility: private
-  - name: sample-repo-cin
-    external_collaborators:
-      Clomonitor1: write
-      cynthia-sg: admin
-      tegioz: admin
-    visibility: private
