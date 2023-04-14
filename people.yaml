@@ -45,4 +45,4 @@ repositories:
     external_collaborators:
       tegioz: admin
       Clomonitor1: write
-    visibility: private
+    visibility: none
