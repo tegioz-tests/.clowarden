@@ -38,3 +38,9 @@ repositories:
       tegioz: admin
       cynthia-sg: admin
     visibility: private
+  - name: sample-repo-cin
+    teams:
+      team3: write
+    external_collaborators:
+      cynthia-sg: admin
+    visibility: private
