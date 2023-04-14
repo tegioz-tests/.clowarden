@@ -43,4 +43,5 @@ repositories:
       team3: write
     external_collaborators:
       cynthia-sg: admin
+      tegioz: admin
     visibility: private
