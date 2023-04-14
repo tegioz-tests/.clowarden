@@ -41,7 +41,7 @@ repositories:
   - name: sample-repo-cin
     teams:
       team2: admin
-      team3: read
+      team3: write
     external_collaborators:
       tegioz: admin
       Clomonitor1: write
