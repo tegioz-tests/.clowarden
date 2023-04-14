@@ -37,4 +37,4 @@ repositories:
     external_collaborators:
       tegioz: admin
       cynthia-sg: admin
-    visibility: nonenone
+    visibility: private
