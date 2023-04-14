@@ -39,8 +39,8 @@ repositories:
       cynthia-sg: admin
     visibility: private
   - name: sample-repo-cin
-    teams: []
+    teams:
+      - team2: admin
     external_collaborators:
-      tegioz: admin
       Clomonitor1: write
     visibility: private
