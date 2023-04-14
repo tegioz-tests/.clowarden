@@ -38,3 +38,7 @@ repositories:
       tegioz: admin
       cynthia-sg: admin
     visibility: private
+  - name: sample-repo-cin
+    external_collaborators:
+      cynthia-sg: admin
+    visibility: private
