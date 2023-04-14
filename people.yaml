@@ -40,9 +40,8 @@ repositories:
     visibility: private
   - name: sample-repo-cin
     teams:
-      team3: write
+      team3: read
     external_collaborators:
-      cynthia-sg: admin
       tegioz: admin
       Clomonitor1: write
       Clomonitor2: write
