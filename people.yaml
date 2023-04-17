@@ -45,7 +45,7 @@ repositories:
       cynthia-sg: triage
       tegioz: admin
     visibility: private
-  - name: sample-repo-cin-2
+  - name: sample-repo-cin-1
     external_collaborators:
       Clomonitor1: admin
       cynthia-sg: triage
