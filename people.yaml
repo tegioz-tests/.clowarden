@@ -29,12 +29,12 @@ repositories:
       team2: admin
       team3: write
     external_collaborators:
-      cynthia-sg: admin
+      cynthia-sg: write
       tegioz: admin
     visibility: private
   - name: sample-repo
     teams:
-      team1: write
+      team1: triage
     external_collaborators:
       tegioz: admin
     visibility: private
