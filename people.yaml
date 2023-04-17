@@ -36,6 +36,7 @@ repositories:
       team1: write
     external_collaborators:
       tegioz: admin
+      cynthia-sg: write
     visibility: private
   - name: sample-repo-cin
     external_collaborators:
