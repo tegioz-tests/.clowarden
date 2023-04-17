@@ -12,6 +12,7 @@ teams:
   - name: team3
     maintainers:
       - cynthia-sg
+      - tegioz
     members: []
 repositories:
   - name: .github
@@ -34,7 +35,7 @@ repositories:
   - name: sample-repo
     teams:
       team1: write
-      team2: triage
+      team2: admin
     external_collaborators:
       tegioz: admin
       cynthia-sg: admin
@@ -44,7 +45,7 @@ repositories:
       cynthia-sg: admin
       tegioz: admin
     visibility: private
-  - name: sample-repo-cin-1
+  - name: sample-repo-cin-2
     external_collaborators:
       Clomonitor1: admin
       cynthia-sg: triage
