@@ -8,7 +8,7 @@ teams:
   - name: team2
     maintainers:
       - tegioz
-    members: []
+    members: oooo
   - name: team3
     maintainers:
       - cynthia-sg
@@ -45,9 +45,9 @@ repositories:
       cynthia-sg: write
       tegioz: admin
     visibility: private
-  - name: sample-repo-cin-1
+  - name: sample-repo-cin-2
     external_collaborators:
       Clomonitor1: admin
       cynthia-sg: triage
       tegioz: admin
-    visibility: private
+    visibility: none
