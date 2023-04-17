@@ -38,14 +38,14 @@ repositories:
       team2: admin
     external_collaborators:
       tegioz: admin
-      cynthia-sg: admin
+      cynthia-sg: read
     visibility: private
   - name: sample-repo-cin
     external_collaborators:
-      cynthia-sg: admin
+      cynthia-sg: write
       tegioz: admin
     visibility: private
-  - name: sample-repo-cin-2
+  - name: sample-repo-cin-1
     external_collaborators:
       Clomonitor1: admin
       cynthia-sg: triage
