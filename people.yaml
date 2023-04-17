@@ -50,4 +50,4 @@ repositories:
       Clomonitor1: admin
       cynthia-sg: triage
       tegioz: admin
-    visibility: none
+    visibility: private
