@@ -34,17 +34,17 @@ repositories:
   - name: sample-repo
     teams:
       team1: write
-      team2: read
+      team2: triage
     external_collaborators:
       tegioz: admin
       cynthia-sg: admin
     visibility: private
   - name: sample-repo-cin
     external_collaborators:
-      cynthia-sg: write
+      cynthia-sg: admin
       tegioz: admin
     visibility: private
-  - name: sample-repo-cin-2
+  - name: sample-repo-cin-1
     external_collaborators:
       Clomonitor1: admin
       cynthia-sg: triage
