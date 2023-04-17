@@ -22,7 +22,7 @@ repositories:
     visibility: private
   - name: .clowarden
     external_collaborators:
-      tegioz: admin
+      tegioz: write
     visibility: private
   - name: gitvote-tests
     teams:
