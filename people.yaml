@@ -26,6 +26,7 @@ repositories:
   - name: gitvote-tests
     teams:
       team2: admin
+      team3: read
     external_collaborators:
       cynthia-sg: admin
       tegioz: admin
