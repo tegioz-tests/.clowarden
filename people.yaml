@@ -12,7 +12,7 @@ teams:
   - name: team3
     maintainers:
       - cynthia-sg
-    members: kkjk
+    members: []
 repositories:
   - name: .github
     external_collaborators:
@@ -21,7 +21,6 @@ repositories:
     visibility: private
   - name: .clowarden
     external_collaborators:
-      cynthia-sg: admin
       tegioz: admin
     visibility: private
   - name: gitvote-tests
@@ -36,5 +35,4 @@ repositories:
       team1: write
     external_collaborators:
       tegioz: admin
-      cynthia-sg: admin
     visibility: private
