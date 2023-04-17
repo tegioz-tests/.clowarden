@@ -29,7 +29,7 @@ repositories:
       team2: admin
       team3: write
     external_collaborators:
-      cynthia-sg: write
+      cynthia-sg: read
       tegioz: admin
     visibility: private
   - name: sample-repo
