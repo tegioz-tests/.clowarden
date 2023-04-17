@@ -45,7 +45,7 @@ repositories:
     visibility: private
   - name: sample-repo-cin-2
     external_collaborators:
-      Clomonitor1: write
+      Clomonitor1: read
       cynthia-sg: triage
       tegioz: admin
     visibility: private
