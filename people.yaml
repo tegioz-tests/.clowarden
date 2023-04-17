@@ -36,11 +36,16 @@ repositories:
       team1: write
     external_collaborators:
       tegioz: admin
-      cynthia-sg: triage
+      cynthia-sg: admin
     visibility: private
   - name: sample-repo-cin
     external_collaborators:
-      Clomonitor1: write
       cynthia-sg: admin
+      tegioz: admin
+    visibility: private
+  - name: sample-repo-cin2
+    external_collaborators:
+      Clomonitor1: admin
+      cynthia-sg: triage
       tegioz: admin
     visibility: private
