@@ -37,4 +37,4 @@ repositories:
       team1: triage
     external_collaborators:
       tegioz: admin
-    visibility: private
+    visibility: none
