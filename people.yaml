@@ -43,4 +43,5 @@ repositories:
       cynthia-sg: admin
       tegioz: admin
       Clomonitor2: read
+      Clomonitor3: read
     visibility: private
