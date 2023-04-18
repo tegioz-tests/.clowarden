@@ -42,5 +42,5 @@ repositories:
     external_collaborators:
       cynthia-sg: admin
       tegioz: admin
-      artifacthubio: read
+      artifacthubio: write
     visibility: private
