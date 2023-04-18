@@ -13,6 +13,10 @@ teams:
     maintainers:
       - cynthia-sg
     members: []
+  - name: team4
+    maintainers:
+      - cynthia-sg
+    members: []
 repositories:
   - name: .github
     external_collaborators:
@@ -27,6 +31,7 @@ repositories:
   - name: gitvote-tests
     teams:
       team2: admin
+      team3: write
     external_collaborators:
       cynthia-sg: admin
       tegioz: admin
