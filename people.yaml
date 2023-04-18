@@ -41,5 +41,5 @@ repositories:
   - name: sample-repo-cin
     external_collaborators:
       cynthia-sg: admin
-      tegioz: admin
+      tegioz: read
     visibility: private
