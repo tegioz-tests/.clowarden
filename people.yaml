@@ -41,5 +41,6 @@ repositories:
   - name: sample-repo-cin
     external_collaborators:
       cynthia-sg: admin
-      tegioz: read
+      tegioz: admin
+      Clomonitor2: read
     visibility: private
