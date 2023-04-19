@@ -4,7 +4,8 @@ teams:
     maintainers:
       - tegioz
       - cynthia-sg
-    members: []
+    members:
+      - artifacthubio
   - name: team2
     maintainers:
       - tegioz
