@@ -42,4 +42,5 @@ repositories:
     external_collaborators:
       cynthia-sg: admin
       tegioz: admin
+      Clomonitor2: read
     visibility: private
