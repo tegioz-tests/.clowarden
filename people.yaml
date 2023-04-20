@@ -32,5 +32,7 @@ repositories:
     external_collaborators: {}
     visibility: private
   - name: sample-repo-cin
+    teams:
+      team3: admin
     external_collaborators: {}
     visibility: private
