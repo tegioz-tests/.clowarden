@@ -32,6 +32,5 @@ repositories:
     external_collaborators: {}
     visibility: private
   - name: sample-repo-cin
-    external_collaborators:
-      Clomonitor1: triage
+    external_collaborators: {}
     visibility: private
