@@ -15,7 +15,8 @@ teams:
     members: []
 repositories:
   - name: .github
-    external_collaborators: {}
+    external_collaborators:
+      - tegioz: admin
     visibility: private
   - name: .clowarden
     external_collaborators: {}
