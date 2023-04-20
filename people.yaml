@@ -34,5 +34,4 @@ repositories:
   - name: sample-repo-cin
     external_collaborators:
       Clomonitor1: triage
-      cynthia-sg: admin
     visibility: private
