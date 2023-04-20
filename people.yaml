@@ -15,11 +15,11 @@ teams:
     members: []
 repositories:
   - name: .github
-    external_collaborators:
-      tegioz: admin
+    external_collaborators: {}
     visibility: private
   - name: .clowarden
-    external_collaborators: {}
+    external_collaborators:
+      cynthia-sg: admin
     visibility: private
   - name: gitvote-tests
     teams:
