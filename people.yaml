@@ -33,6 +33,6 @@ repositories:
     visibility: private
   - name: sample-repo-cin
     teams:
-      team3: read
+      team3: write
     external_collaborators: {}
     visibility: private
