@@ -32,5 +32,6 @@ repositories:
     external_collaborators: {}
     visibility: private
   - name: sample-repo-cin
-    external_collaborators: {}
+    external_collaborators:
+      cynthia-sg: admin
     visibility: private
