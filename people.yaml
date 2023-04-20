@@ -13,6 +13,7 @@ teams:
     maintainers:
       - cynthia-sg
       - Clomonitor1
+      - tegioz
     members: []
 repositories:
   - name: .github
