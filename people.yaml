@@ -15,21 +15,21 @@ teams:
     members: []
 repositories:
   - name: .github
-    external_collaborators: []
+    external_collaborators: {}
     visibility: private
   - name: .clowarden
-    external_collaborators: []
+    external_collaborators: {}
     visibility: private
   - name: gitvote-tests
     teams:
       team2: read
-    external_collaborators: []
+    external_collaborators: {}
     visibility: private
   - name: sample-repo
     teams:
       team1: write
-    external_collaborators: []
+    external_collaborators: {}
     visibility: private
   - name: sample-repo-cin
-    external_collaborators: []
+    external_collaborators: {}
     visibility: private
