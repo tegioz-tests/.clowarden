@@ -12,8 +12,6 @@ teams:
   - name: team3
     maintainers:
       - cynthia-sg
-      - Clomonitor1
-      - tegioz
     members: []
 repositories:
   - name: .github
