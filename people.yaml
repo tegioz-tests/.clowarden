@@ -15,31 +15,21 @@ teams:
     members: []
 repositories:
   - name: .github
-    external_collaborators:
-      cynthia-sg: admin
-      tegioz: admin
+    external_collaborators: []
     visibility: private
   - name: .clowarden
-    external_collaborators:
-      cynthia-sg: admin
-      tegioz: admin
+    external_collaborators: []
     visibility: private
   - name: gitvote-tests
     teams:
       team2: read
-    external_collaborators:
-      cynthia-sg: admin
-      tegioz: admin
+    external_collaborators: []
     visibility: private
   - name: sample-repo
     teams:
       team1: write
-    external_collaborators:
-      tegioz: admin
-      cynthia-sg: admin
+    external_collaborators: []
     visibility: private
   - name: sample-repo-cin
-    external_collaborators:
-      cynthia-sg: admin
-      tegioz: admin
+    external_collaborators: []
     visibility: private
