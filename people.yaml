@@ -13,6 +13,13 @@ teams:
     maintainers:
       - cynthia-sg
     members: []
+  - name: team4
+    maintainers:
+      - cynthia-sg
+      - Clomonitor1
+    members:
+      - Clomonitor2
+      - Clomonitor3
 repositories:
   - name: .github
     external_collaborators: {}
@@ -29,8 +36,10 @@ repositories:
   - name: sample-repo
     teams:
       team1: write
+      team3: read
     external_collaborators: {}
     visibility: private
   - name: sample-repo-cin
-    external_collaborators: {}
+    external_collaborators:
+      Clomonitor1: triage
     visibility: private
