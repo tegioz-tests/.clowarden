@@ -24,7 +24,6 @@ teams:
     maintainers:
       - Clomonitor1
     members:
-      - Clomonitor1
       - Clomonitor2
   - name: team8
     maintainers:
@@ -57,5 +56,6 @@ repositories:
   - name: repo1
     teams:
       team5: write
-    external_collaborators: {}
+    external_collaborators:
+      Clomonitor1: triage
     visibility: private
