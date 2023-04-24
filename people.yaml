@@ -1,10 +1,5 @@
 organization: tegioz-tests
 teams:
-  - name: team1
-    maintainers:
-      - tegioz
-      - cynthia-sg
-    members: []
   - name: team2
     maintainers:
       - tegioz
@@ -52,5 +47,5 @@ repositories:
     teams:
       - team1: write
     external_collaborators:
-      - collaborator1: red
+      - collaborator1: read
     visibility: public
