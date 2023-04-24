@@ -48,3 +48,9 @@ repositories:
     external_collaborators:
       Clomonitor1: write
     visibility: private
+  - name: repo1
+    teams:
+      team8: write
+    external_collaborators:
+      collaborator1: red
+    visibility: public
