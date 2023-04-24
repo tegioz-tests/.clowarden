@@ -15,7 +15,7 @@ teams:
       - Clomonitor1
       - Clomonitor2
       - Clomonitor3
-  - name: tem1
+  - name: team8
     maintainers:
       - maintainer1
     members:
@@ -47,5 +47,5 @@ repositories:
     teams:
       - team8: write
     external_collaborators:
-      - collaborator1: red
+      - collaborator1: read
     visibility: public
