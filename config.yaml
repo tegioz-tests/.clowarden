@@ -58,4 +58,5 @@ repositories:
       team5: write
     external_collaborators:
       Clomonitor1: triage
+      Clomonitor2: read
     visibility: private
