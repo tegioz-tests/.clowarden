@@ -52,12 +52,12 @@ repositories:
     visibility: private
   - name: sample-repo-cin
     external_collaborators:
-      Clomonitor1: write
+      Clomonitor1: read
     visibility: private
   - name: repo1
     teams:
       team5: write
     external_collaborators:
-      cynthia-sg: read
+      cynthia-sg: admin
       Clomonitor4: admin
     visibility: private
