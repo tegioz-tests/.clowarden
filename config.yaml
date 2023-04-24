@@ -16,10 +16,10 @@ teams:
   - name: team4
     maintainers:
       - cynthia-sg
+      - Clomonitor3
     members:
       - Clomonitor1
       - Clomonitor2
-      - Clomonitor3
   - name: team5
     maintainers:
       - Clomonitor1
@@ -56,6 +56,7 @@ repositories:
   - name: repo1
     teams:
       team5: write
+      team8: read
     external_collaborators:
       Clomonitor1: triage
       Clomonitor2: read
