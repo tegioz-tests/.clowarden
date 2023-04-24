@@ -56,8 +56,6 @@ repositories:
   - name: repo1
     teams:
       team5: write
-      team8: read
     external_collaborators:
-      Clomonitor1: triage
-      Clomonitor2: read
+      Clomonitor4: triage
     visibility: private
