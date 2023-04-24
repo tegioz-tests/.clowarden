@@ -23,13 +23,14 @@ teams:
   - name: team5
     maintainers:
       - Clomonitor1
-    members:
       - Clomonitor2
+    members: []
   - name: team8
     maintainers:
       - Clomonitor1
     members:
       - Clomonitor2
+      - Clomonitor3
 repositories:
   - name: .github
     external_collaborators: {}
