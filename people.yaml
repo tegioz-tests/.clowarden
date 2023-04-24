@@ -45,7 +45,7 @@ repositories:
     visibility: private
   - name: repo1
     teams:
-      - team1: write
+      - team8: write
     external_collaborators:
-      - collaborator1: read
+      - collaborator1: red
     visibility: public
