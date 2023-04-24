@@ -49,4 +49,8 @@ repositories:
   - name: sample-repo-cin
     external_collaborators:
       Clomonitor1: write
+    visibility: public
+  - name: sample-repo-cin2
+    external_collaborators:
+      Clomonitor1: read
     visibility: private
