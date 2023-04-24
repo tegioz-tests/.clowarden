@@ -57,5 +57,6 @@ repositories:
     teams:
       team5: write
     external_collaborators:
-      Clomonitor4: triage
+      cynthia-sg: read
+      Clomonitor4: admin
     visibility: private
