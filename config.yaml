@@ -51,5 +51,7 @@ repositories:
   - name: repo1
     teams:
       team8: write
-    external_collaborators: {}
+      tegioz: maintain
+    external_collaborators:
+      Clomonitor1: read
     visibility: public
