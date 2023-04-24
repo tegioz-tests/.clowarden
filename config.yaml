@@ -53,5 +53,5 @@ repositories:
       team8: write
     external_collaborators:
       Clomonitor1: read
-      tegioz: maintain
+      artifacthubio: read
     visibility: public
