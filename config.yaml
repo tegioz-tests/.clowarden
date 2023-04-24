@@ -25,6 +25,12 @@ teams:
       - Clomonitor1
       - Clomonitor2
     members: []
+  - name: team6
+    maintainers:
+      - Clomonitor1
+    members:
+      - Clomonitor2
+      - Clomonitor3
   - name: team8
     maintainers:
       - Clomonitor1
