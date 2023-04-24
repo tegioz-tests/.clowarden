@@ -52,5 +52,5 @@ repositories:
     teams:
       team8: write
     external_collaborators:
-      collaborator1: red
+      collaborator1: read
     visibility: public
