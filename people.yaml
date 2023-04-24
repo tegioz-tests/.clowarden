@@ -20,11 +20,11 @@ teams:
       - Clomonitor1
       - Clomonitor2
       - Clomonitor3
-  - name: tem8
+  - name: team8
     maintainers:
-      - maintainer1
+      - Clomonitor1
     members:
-      - member1
+      - Clomonitor2
 repositories:
   - name: .github
     external_collaborators: {}
@@ -52,5 +52,5 @@ repositories:
     teams:
       team8: write
     external_collaborators:
-      collaborator1: read
+      Clomonitor1: read
     visibility: public
