@@ -16,10 +16,10 @@ teams:
   - name: team4
     maintainers:
       - cynthia-sg
-      - Clomonitor3
-      - Clomonitor2
-    members:
       - Clomonitor1
+      - Clomonitor3
+    members:
+      - Clomonitor2
   - name: team5
     maintainers:
       - Clomonitor1
