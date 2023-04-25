@@ -20,11 +20,11 @@ teams:
       - Clomonitor2
     members:
       - Clomonitor1
-  - name: team5
+  - name: team6
     maintainers:
       - tegioz
     members:
-      - cynthia-sg
+      - Clomonitor2
 repositories:
   - name: .github
     external_collaborators: {}
