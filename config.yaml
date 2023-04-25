@@ -57,5 +57,5 @@ repositories:
     teams:
       team8: write
     external_collaborators:
-      Clomonitor1: maintain
+      Clomonitor1: write
     visibility: private
