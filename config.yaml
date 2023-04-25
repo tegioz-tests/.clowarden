@@ -56,7 +56,7 @@ repositories:
   - name: repo1
     teams:
       team5: read
-      team8: write
+      team8: admin
     external_collaborators:
-      Clomonitor1: admin
+      Clomonitor1: read
     visibility: private
