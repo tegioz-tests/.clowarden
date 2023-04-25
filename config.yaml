@@ -56,5 +56,6 @@ repositories:
   - name: repo1
     teams:
       team8: write
-    external_collaborators: {}
+    external_collaborators:
+      Clomonitor1: write
     visibility: private
