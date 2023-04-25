@@ -24,7 +24,7 @@ teams:
     maintainers:
       - tegioz
     members:
-      - Clomonitor1
+      - cynthia-sg
 repositories:
   - name: .github
     external_collaborators: {}
