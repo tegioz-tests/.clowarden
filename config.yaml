@@ -13,18 +13,6 @@ teams:
     maintainers:
       - cynthia-sg
     members: []
-  - name: team4
-    maintainers:
-      - cynthia-sg
-      - Clomonitor3
-      - Clomonitor2
-    members:
-      - Clomonitor1
-  - name: team6
-    maintainers:
-      - tegioz
-    members:
-      - Clomonitor2
 repositories:
   - name: .github
     external_collaborators: {}
@@ -43,11 +31,4 @@ repositories:
       team1: write
       team3: read
     external_collaborators: {}
-    visibility: private
-  - name: sample-repo-cin
-    teams:
-      team4: admin
-    external_collaborators:
-      Clomonitor1: write
-      cynthia-sg: triage
     visibility: private
