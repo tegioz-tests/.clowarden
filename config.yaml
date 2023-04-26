@@ -45,6 +45,8 @@ repositories:
     external_collaborators: {}
     visibility: private
   - name: sample-repo-cin
+    teams:
+      team5: read
     external_collaborators:
       Clomonitor1: write
     visibility: private
