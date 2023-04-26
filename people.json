@@ -16,5 +16,23 @@
     "email": "tegioz!icloud.com",
     "slack_id": "",
     "image": ""
+  },
+  {
+    "name": "Cintia Sanchez Garcia",
+    "bio": "",
+    "company": "",
+    "pronouns": "she/her",
+    "location": "Spain",
+    "linkedin": "https://es.linkedin.com/in/cynthiasg",
+    "twitter": "",
+    "github": "https://github.com/cynthia-sg",
+    "wechat": "",
+    "website": "",
+    "youtube": "",
+    "languages": ["Spanish", "English"],
+    "projects": ["Artifact Hub"],
+    "email": "cynthiasg!icloud.com",
+    "slack_id": "",
+    "image": ""
   }
 ]
