@@ -32,3 +32,9 @@ repositories:
       team3: read
     external_collaborators: {}
     visibility: private
+  - name: sample-repo-cin
+    teams:
+      team3: admin
+    external_collaborators:
+      cynthia-sg: read
+    visibility: private
