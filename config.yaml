@@ -49,4 +49,4 @@ repositories:
       team5: read
     external_collaborators:
       Clomonitor1: write
-    visibility: private
+    visibility: none
