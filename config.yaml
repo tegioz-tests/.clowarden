@@ -40,6 +40,4 @@ repositories:
   - name: sample-repo-cin
     teams:
       team4: admin
-    external_collaborators:
-      Clomonitor1: read
     visibility: private
