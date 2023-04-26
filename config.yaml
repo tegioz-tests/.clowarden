@@ -39,5 +39,5 @@ repositories:
     visibility: private
   - name: sample-repo-cin
     teams:
-      team4: admin
+      team5: admin
     visibility: private
