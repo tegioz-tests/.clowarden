@@ -13,6 +13,11 @@ teams:
     maintainers:
       - cynthia-sg
     members: []
+  - name: team11
+    maintainers:
+      - cynthia-sg
+      - Clomonitor8
+    members: []
 repositories:
   - name: .github
     external_collaborators: {}
