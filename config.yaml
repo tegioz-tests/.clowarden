@@ -13,12 +13,6 @@ teams:
     maintainers:
       - cynthia-sg
     members: []
-  - name: team10
-    maintainers:
-      - Clomonitor5
-      - Clomonitor6
-    members:
-      - cynthia-sg
 repositories:
   - name: .github
     external_collaborators: {}
@@ -36,10 +30,5 @@ repositories:
     teams:
       team1: write
       team3: read
-    external_collaborators: {}
-    visibility: private
-  - name: sample-new-repo
-    teams:
-      team10: admin
     external_collaborators: {}
     visibility: private
