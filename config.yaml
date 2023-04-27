@@ -16,6 +16,7 @@ teams:
   - name: team4
     maintainers:
       - cynthia-sg
+      - Clomonitor2
     members:
       - Clomonitor1
 repositories:
@@ -40,4 +41,5 @@ repositories:
   - name: sample-repo-cin
     teams:
       team9: admin
+      team10: read
     visibility: private
