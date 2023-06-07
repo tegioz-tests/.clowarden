@@ -32,3 +32,9 @@ repositories:
       team3: read
     external_collaborators: {}
     visibility: private
+  - name: sample-repo-2
+    teams:
+      team1: write
+      team3: read
+    external_collaborators: {}
+    visibility: private
