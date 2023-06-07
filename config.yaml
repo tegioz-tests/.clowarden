@@ -17,7 +17,7 @@ teams:
     formation:
       - team2
       - team3
-     maintainers: []
+    maintainers: []
 repositories:
   - name: .github
     external_collaborators: {}
