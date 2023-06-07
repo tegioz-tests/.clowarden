@@ -29,6 +29,6 @@ repositories:
   - name: sample-repo
     teams:
       team1: write
-      team3: read
+      team3: triage
     external_collaborators: {}
     visibility: none
