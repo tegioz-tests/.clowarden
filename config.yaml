@@ -24,8 +24,7 @@ repositories:
   - name: gitvote-tests
     teams:
       team2: read
-    external_collaborators:
-      - Clomonitor1: read
+    external_collaborators: {}
     visibility: private
   - name: sample-repo
     teams:
