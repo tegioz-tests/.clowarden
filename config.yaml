@@ -15,8 +15,6 @@ teams:
     members:
       - Clomonitor1
   - name: group-1
-    maintainers: []
-    members: []
     formation:
       - team2
       - team3
