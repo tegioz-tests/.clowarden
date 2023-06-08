@@ -42,3 +42,8 @@ repositories:
       team2: read
     external_collaborators: {}
     visibility: private
+  - name: new-repo
+    teams:
+      team5: write
+    external_collaborators:
+      Clomonitor4: admin
