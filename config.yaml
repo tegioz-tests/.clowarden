@@ -40,6 +40,10 @@ teams:
     formation:
       - team4
       - team6
+  - name: group2
+    formation:
+      - group1
+      - team4
 repositories:
   - name: .github
     external_collaborators: {}
