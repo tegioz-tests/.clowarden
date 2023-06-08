@@ -46,7 +46,7 @@ repositories:
   - name: new-repo
     teams:
       team4: write
-      team5: read
+      team4: read
     external_collaborators:
       Clomonitor1: read
       Clomonitor1: admin
