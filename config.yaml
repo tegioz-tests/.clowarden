@@ -41,6 +41,8 @@ teams:
       - team4
       - team6
   - name: group2
+    maintainers:
+      - cynthia-sg
     formation:
       - team4
 repositories:
