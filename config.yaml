@@ -34,6 +34,10 @@ teams:
       - cynthia-sg
       - cynthia-sg
     members: []
+  - name: group1
+    formation:
+      - team1
+      - team3
 repositories:
   - name: .github
     external_collaborators: {}
