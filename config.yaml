@@ -47,3 +47,5 @@ repositories:
       team5: write
     external_collaborators:
       Clomonitor4: admin
+    settings:
+      has_wiki: true
