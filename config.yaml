@@ -49,3 +49,6 @@ repositories:
       Clomonitor4: admin
     settings:
       has_wiki: true
+  - name: test-1
+    settings:
+      has_wiki: true
