@@ -43,3 +43,11 @@ repositories:
       team2: read
     external_collaborators: {}
     visibility: private
+  - name: new-repo
+    teams:
+      team4: write
+      team5: read
+    external_collaborators:
+      - Clomonitor1: read
+      - Clomonitor1: read
+    visibility: private
