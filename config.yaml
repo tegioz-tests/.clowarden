@@ -21,7 +21,7 @@ teams:
      - Clomonitor2
   - name: team5
     formation:
-      - team2
+      - team4
       - team4
 repositories:
   - name: .github
