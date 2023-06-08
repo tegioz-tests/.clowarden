@@ -48,3 +48,4 @@ repositories:
     external_collaborators:
       Clomonitor4: admin
       cynthia-sg: admin
+    visibility: none
