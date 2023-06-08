@@ -18,6 +18,12 @@ teams:
       - cynthia-sg
       - cynthia-sg
     members: []
+  - name: team5
+    maintainers:
+      - tegioz
+    members:
+      - cynthia-sg
+      - cynthia-sg
 repositories:
   - name: .github
     external_collaborators: {}
