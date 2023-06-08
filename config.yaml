@@ -24,6 +24,11 @@ teams:
     members:
       - cynthia-sg
       - cynthia-sg
+  - name: group1
+    maintainers:
+      - cynthia-sg
+    formation:
+      - team4
 repositories:
   - name: .github
     external_collaborators: {}
