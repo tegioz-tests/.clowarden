@@ -24,13 +24,22 @@ teams:
     members:
       - cynthia-sg
       - cynthia-sg
+  - name: team6
+    maintainers:
+      - Clomonitor1
+    members:
+      - Clomonitor2
+      - Clomonitor3
+      - Clomonitor4
   - name: group1
     maintainers:
       - cynthia-sg
     members:
       - tegioz
+      - Clomonitor5
     formation:
       - team4
+      - team6
 repositories:
   - name: .github
     external_collaborators: {}
