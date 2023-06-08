@@ -20,9 +20,10 @@ teams:
     members:
      - Clomonitor2
   - name: team5
-    formation:
-      - team4
-      - team4
+    maintainers:
+      - cynthia-sg
+    members:
+      - Clomonitor1
 repositories:
   - name: .github
     external_collaborators: {}
