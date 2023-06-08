@@ -28,7 +28,7 @@ teams:
     maintainers:
       - cynthia-sg
     formation:
-      - team5
+      - team4
 repositories:
   - name: .github
     external_collaborators: {}
