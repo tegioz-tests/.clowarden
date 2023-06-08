@@ -28,6 +28,7 @@ teams:
     members:
       - Clomonitor2
       - Clomonitor2
+      - Clomonitor2
 repositories:
   - name: .github
     external_collaborators: {}
