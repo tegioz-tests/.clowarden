@@ -48,6 +48,6 @@ repositories:
       team4: write
       team5: read
     external_collaborators:
-      - Clomonitor1: read
-      - Clomonitor1: read
+      Clomonitor1: read
+      Clomonitor1: read
     visibility: private
