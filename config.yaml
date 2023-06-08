@@ -37,7 +37,7 @@ teams:
   - name: group1
     formation:
       - team1
-      - team3
+      - team2
 repositories:
   - name: .github
     external_collaborators: {}
