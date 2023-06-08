@@ -24,6 +24,9 @@ teams:
     members:
       - cynthia-sg
       - cynthia-sg
+  - name: team6
+    maintainers:
+      - tegioz
   - name: group1
     maintainers:
       - cynthia-sg
@@ -31,6 +34,7 @@ teams:
       - tegioz
     formation:
       - team4
+      - team6
 repositories:
   - name: .github
     external_collaborators: {}
