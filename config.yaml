@@ -41,6 +41,8 @@ teams:
       - team4
       - team6
   - name: group2
+    maintainers:
+      - Clomonitor1
     formation:
       - team4
 repositories:
@@ -65,6 +67,7 @@ repositories:
   - name: new-repo
     teams:
       team4: write
+      group2: read
     external_collaborators:
       Clomonitor1: read
       Clomonitor1: admin
