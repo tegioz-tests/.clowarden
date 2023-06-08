@@ -68,6 +68,7 @@ repositories:
     teams:
       team4: write
       group2: read
+      group1: triage
     external_collaborators:
       cynthia-sg: admin
       Clomonitor1: read
