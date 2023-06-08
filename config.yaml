@@ -27,6 +27,8 @@ teams:
   - name: group1
     maintainers:
       - cynthia-sg
+    members:
+      - tegioz
     formation:
       - team4
 repositories:
