@@ -36,7 +36,7 @@ repositories:
   - name: sample-repo
     teams:
       team1: write
-      team: read
+      team2: read
     external_collaborators: {}
     visibility: private
   - name: sample-repo-2
