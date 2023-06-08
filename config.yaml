@@ -34,7 +34,7 @@ repositories:
     visibility: private
   - name: sample-repo-2
     teams:
-      team2: triage
-      team1: read
+      team2: read
+      team1: admin
     external_collaborators: {}
     visibility: private
