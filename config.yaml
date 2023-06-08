@@ -49,5 +49,5 @@ repositories:
       tegioz: triage
       Clomonitor2: triage
       Clomonitor2: admin
-      Clomonitor2: read      
+      Clomonitor2: admin      
     visibility: private
