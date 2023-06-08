@@ -17,7 +17,9 @@ teams:
     maintainers:
       - cynthia-sg
       - cynthia-sg
+      - cynthia-sg
     members:
+      - Clomonitor1
       - Clomonitor1
       - Clomonitor1
 repositories:
@@ -47,4 +49,5 @@ repositories:
       tegioz: triage
       Clomonitor2: triage
       Clomonitor2: admin
+      Clomonitor2: read      
     visibility: private
