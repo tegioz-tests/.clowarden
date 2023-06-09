@@ -26,7 +26,7 @@ teams:
       - Clomonitor1
       - Clomonitor2
       - Clomonitor3      
-  - name: TeaM6
+  - name: team6
     maintainers:
       - cynthia-sg
 repositories:
