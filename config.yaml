@@ -51,7 +51,7 @@ repositories:
     external_collaborators:
       Clomonitor3: read
     visibility: private
-  - name: test-1
+  - name: test-2
     teams:
       team6: admin
     external_collaborators:
