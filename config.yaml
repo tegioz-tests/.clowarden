@@ -26,6 +26,9 @@ teams:
       - Clomonitor1
       - Clomonitor2
       - Clomonitor3      
+  - name: TeaM6
+    maintainers:
+      - cynthia-sg
 repositories:
   - name: .github
     external_collaborators: {}
