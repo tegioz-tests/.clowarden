@@ -27,6 +27,10 @@ teams:
     formation:
       - team5
       - team6
+  - name: team7
+    maintainers:
+      - cynthia-sg
+      - Clomonitor5
 repositories:
   - name: .github
     external_collaborators: {}
