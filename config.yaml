@@ -23,9 +23,11 @@ teams:
       - Clomonitor1    
       - Clomonitor2
   - name: team6
+    maintainers:
+      - tegioz
     formation:
       - team5
-      - team6
+      - team7
   - name: team7
     maintainers:
       - cynthia-sg
