@@ -28,7 +28,7 @@ teams:
       - Clomonitor3      
   - name: team6
     maintainers:
-      - Clomonitor5
+      - Clomonitor6
 repositories:
   - name: .github
     external_collaborators: {}
