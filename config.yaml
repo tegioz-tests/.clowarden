@@ -54,7 +54,7 @@ repositories:
   - name: test-2
     teams:
       team6: admin
-      team5: triage
+      team5: error
     external_collaborators:
       Clomonitor3: read
       Clomonitor1: admin
