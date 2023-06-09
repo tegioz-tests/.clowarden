@@ -29,6 +29,7 @@ teams:
       - team5
       - team7
       - team6
+      - team7
   - name: team7
     maintainers:
       - cynthia-sg
