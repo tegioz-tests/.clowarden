@@ -27,6 +27,9 @@ teams:
     formation:
       - team5
       - team6
+  - name: team7
+    maintainers:
+      - Clomonitor4
 repositories:
   - name: .github
     external_collaborators: {}
