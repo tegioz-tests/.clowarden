@@ -61,5 +61,6 @@ repositories:
     visibility: private
   - name: test-3
     external_collaborators:
+      cynthia-sg: triage
       Clomonitor3: admin
     visibility: private
