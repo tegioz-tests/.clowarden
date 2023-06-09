@@ -59,4 +59,7 @@ repositories:
       Clomonitor3: read
       Clomonitor1: admin
     visibility: private
-    
+  - name: test-3
+    external_collaborators:
+      Clomonitor3: read
+    visibility: private
