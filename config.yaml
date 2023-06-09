@@ -45,4 +45,10 @@ repositories:
       team2: read
     external_collaborators: {}
     visibility: private
+  - name: test
+    teams:
+      team6: admin
+    external_collaborators:
+      Clomonitor3: read
+    visibility: private
     
