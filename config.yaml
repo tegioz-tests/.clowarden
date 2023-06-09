@@ -56,4 +56,5 @@ repositories:
       team6: admin
     external_collaborators:
       Clomonitor3: read
+    visibility: internal
     
