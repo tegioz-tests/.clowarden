@@ -28,7 +28,7 @@ teams:
       - Clomonitor3      
   - name: team6
     maintainers:
-      - cynthia-sg
+      - Clomonitor5
 repositories:
   - name: .github
     external_collaborators: {}
@@ -48,7 +48,8 @@ repositories:
       team2: read
     external_collaborators: {}
     visibility: private
-  - name: new-repo
+  - name: new-repo-1
     teams:
       team3: admin
+      team6: write
     external_collaborators: {}
