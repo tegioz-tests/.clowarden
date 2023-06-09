@@ -19,8 +19,9 @@ teams:
   - name: team5
     maintainers:
       - cynthia-sg
-    members:
       - Clomonitor1    
+    members:
+      - Clomonitor2
   - name: team6
     formation:
       - team5
