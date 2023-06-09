@@ -62,4 +62,4 @@ repositories:
   - name: test-3
     external_collaborators:
       Clomonitor3: admin
-    visibility: private
+    visibility: public
