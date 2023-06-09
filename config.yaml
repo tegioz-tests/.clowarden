@@ -58,5 +58,5 @@ repositories:
     external_collaborators:
       Clomonitor3: read
       Clomonitor1: admin
-    visibility: private
+    visibility: test
     
