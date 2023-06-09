@@ -28,11 +28,10 @@ teams:
     formation:
       - team5
       - team7
+      - team6
   - name: team7
     maintainers:
       - cynthia-sg
-    formation:
-      - team6
 repositories:
   - name: .github
     external_collaborators: {}
