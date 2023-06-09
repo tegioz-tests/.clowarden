@@ -19,7 +19,6 @@ teams:
   - name: team5
     maintainers:
       - cynthia-sg
-      - dtegioz
     members:
       - Clomonitor1    
       - Clomonitor2
@@ -30,7 +29,6 @@ teams:
   - name: team7
     maintainers:
       - cynthia-sg
-      - Clomonitor5
 repositories:
   - name: .github
     external_collaborators: {}
