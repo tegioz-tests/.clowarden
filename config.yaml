@@ -16,8 +16,12 @@ teams:
   - name: new-team
     members:
       - Clomonitor1
+    maintainers:
+      - tegioz
     formation:
       - team3
+  - name: team4
+    formation: new-team
 repositories:
   - name: .github
     external_collaborators: {}
