@@ -21,7 +21,7 @@ teams:
     formation:
       - team3
   - name: team4
-    formation: new-team
+    formation: NEW-team
 repositories:
   - name: .github
     external_collaborators: {}
