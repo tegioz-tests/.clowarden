@@ -13,6 +13,8 @@ teams:
     maintainers:
       - cynthia-sg
     members: []
+    formation:
+      - test-1
   - name: new-team
     members:
       - Clomonitor1
