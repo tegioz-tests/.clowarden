@@ -59,6 +59,7 @@ repositories:
       team6: admin
     external_collaborators:
       Clomonitor3: read
+      Clomonitor2: triage
     visibility: private
   - name: test-2
     teams:
