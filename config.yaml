@@ -46,5 +46,6 @@ repositories:
     teams:
       new-team: write
       test-1: read
-    external_collaborators: {}
+    external_collaborators:
+      cynthia-sg: admin
     visibility: private
