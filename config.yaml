@@ -18,6 +18,9 @@ teams:
       - Clomonitor1
     formation:
       - team3
+  - name: test-1
+    formation:
+      - team3
 repositories:
   - name: .github
     external_collaborators: {}
