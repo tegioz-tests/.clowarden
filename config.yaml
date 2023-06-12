@@ -13,6 +13,9 @@ teams:
     maintainers:
       - cynthia-sg
     members: []
+  - name: NEW-team
+    formation:
+      - team3
 repositories:
   - name: .github
     external_collaborators: {}
