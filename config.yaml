@@ -13,7 +13,9 @@ teams:
     maintainers:
       - cynthia-sg
     members: []
-  - name: NEW-team
+  - name: new-team
+    members:
+      - Clomonitor1
     formation:
       - team3
 repositories:
