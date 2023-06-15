@@ -19,7 +19,7 @@ repositories:
     visibility: private
   - name: .clowarden
     external_collaborators:
-      cynthia-sg: admin
+      cynthia-sg: admin # Comment
     visibility: private
   - name: gitvote-tests
     teams:
