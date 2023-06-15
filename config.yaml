@@ -36,5 +36,6 @@ repositories:
     teams:
       team1: write
       team2: read
-    external_collaborators: {}
+    external_collaborators:
+      cynthia-sg: admin
     visibility: private
