@@ -37,3 +37,7 @@ repositories:
       team2: read
     external_collaborators: {}
     visibility: private
+  - name: test-fork
+    teams:
+      team4: admin
+    visibility: none
