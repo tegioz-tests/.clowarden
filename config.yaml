@@ -32,10 +32,3 @@ repositories:
       team2: read
     external_collaborators: {}
     visibility: private
-  - name: repo-from-fork
-    teams:
-      team1: write
-      team2: read
-    external_collaborators:
-      cynthia-sg: admin
-    visibility: private
