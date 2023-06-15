@@ -20,7 +20,7 @@ repositories:
   - name: .clowarden
     external_collaborators:
       cynthia-sg: admin
-    visibility: public
+    visibility: private
   - name: gitvote-tests
     teams:
       team2: read
