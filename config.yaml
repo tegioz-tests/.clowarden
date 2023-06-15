@@ -54,3 +54,6 @@ repositories:
     external_collaborators:
       cynthia-sg: admin
     visibility: private
+  - name: test-1
+    teams:
+      team4: admin
