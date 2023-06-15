@@ -13,6 +13,15 @@ teams:
     maintainers:
       - cynthia-sg
     members: []
+  - name: team4
+    maintainers:
+      - cynthia-sg
+      - Clomonitor1
+    members: []
+  - name: team5
+    formation:
+      - team2
+      - team4
 repositories:
   - name: .github
     external_collaborators: {}
@@ -31,4 +40,8 @@ repositories:
       team1: write
       team2: read
     external_collaborators: {}
+    visibility: private
+  - name: test-fork
+    teams:
+      team4: admin
     visibility: private
