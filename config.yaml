@@ -40,4 +40,4 @@ repositories:
   - name: test-fork
     teams:
       team4: admin
-    visibility: none
+    visibility: private
