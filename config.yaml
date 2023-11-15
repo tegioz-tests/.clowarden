@@ -36,12 +36,12 @@ repositories:
     teams:
       team1: write
       team2: read
+      team4: triage
     external_collaborators: {}
     visibility: private
   - name: test-repo
     teams:
       team3: write
-      team2: read
     external_collaborators:
       Clomonitor3: triage
     visibility: private
