@@ -41,6 +41,7 @@ repositories:
   - name: test-repo
     teams:
       team3: write
+      team4: admin
     external_collaborators:
       Clomonitor3: triage
     visibility: private
