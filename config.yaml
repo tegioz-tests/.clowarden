@@ -33,9 +33,3 @@ repositories:
       team2: read
     external_collaborators: {}
     visibility: private
-  - name: sample-repo-2
-    teams:
-      team3: admin
-    external_collaborators:
-      tegioz: triage
-    visibility: internal
