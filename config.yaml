@@ -37,5 +37,5 @@ repositories:
     teams:
       team3: admin
     external_collaborators:
-      tegioz: write
+      tegioz: triage
     visibility: internal
