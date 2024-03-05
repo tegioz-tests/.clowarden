@@ -36,5 +36,6 @@ repositories:
   - name: sample-repo-2
     teams:
       team3: admin
-    external_collaborators: {}
+    external_collaborators:
+      tegioz: write
     visibility: private
