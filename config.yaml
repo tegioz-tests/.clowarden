@@ -38,4 +38,4 @@ repositories:
       team3: admin
     external_collaborators:
       tegioz: write
-    visibility: private
+    visibility: none
