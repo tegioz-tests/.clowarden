@@ -36,6 +36,6 @@ repositories:
     visibility: private
   - name: sample-repo-2
     teams:
-      team8: admin
+      team1: admin
     external-collaborators: {}
     visibility: private
