@@ -34,3 +34,8 @@ repositories:
     external_collaborators:
       Clomonitor1: triage
     visibility: private
+  - name: sample-repo-2
+    teams:
+      team1: admin
+    external-collaborators: {}
+    visibility: private
