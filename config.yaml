@@ -36,6 +36,6 @@ repositories:
     teams:
       team1: write
       team2: read
-      team5: triage
+      team4: triage
     external_collaborators: {}
     visibility: private
