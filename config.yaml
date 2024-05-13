@@ -39,3 +39,7 @@ repositories:
       team4: triage
     external_collaborators: {}
     visibility: private
+  - name: repo-2
+    teams: {}
+    external-collaborators:
+      cynthia-sg: admin
