@@ -14,7 +14,7 @@ teams:
       - cynthia-sg
     members:
       - Clomonitor1
-  - name: team4
+  - name: new-team
     maintainers:
       - cynthia-sg
     members:
@@ -38,5 +38,6 @@ repositories:
       team1: write
       team2: read
       team3: admin
+      new-team: triage
     external_collaborators: {}
     visibility: private
