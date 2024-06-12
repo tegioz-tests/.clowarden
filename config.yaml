@@ -35,7 +35,7 @@ repositories:
   - name: sample-repo
     teams:
       team1: write
-      team2: read
+      team2: write
       team3: admin
       new-New-team: admin
     external_collaborators: {}
