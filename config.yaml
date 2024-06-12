@@ -19,6 +19,7 @@ teams:
       - cynthia-sg
     members:
       - Clomonitor1
+      - Clomonitor2
 repositories:
   - name: .github
     external_collaborators: {}
