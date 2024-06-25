@@ -14,11 +14,6 @@ teams:
       - cynthia-sg
     members:
       - Clomonitor1
-  - name: new New Team
-    maintainers:
-      - cynthia-sg
-    members:
-      - Clomonitor1
 repositories:
   - name: .github
     external_collaborators: {}
@@ -37,6 +32,5 @@ repositories:
       team1: write
       team2: write
       team3: admin
-      new-new-team: admin
     external_collaborators: {}
     visibility: private
