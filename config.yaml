@@ -31,6 +31,6 @@ repositories:
     teams:
       team1: write
       team2: write
-      team3: admin
+      team3: read
     external_collaborators: {}
     visibility: private
