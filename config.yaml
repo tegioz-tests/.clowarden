@@ -15,6 +15,10 @@ teams:
     members:
       - Clomonitor1
       - Clomonitor4
+  - name: team4
+    maintainers:
+      - cynthia-sg
+    members: []
 repositories:
   - name: .github
     external_collaborators: {}
@@ -33,5 +37,6 @@ repositories:
       team1: write
       team2: write
       team3: admin
+      team4: triage
     external_collaborators: {}
     visibility: private
