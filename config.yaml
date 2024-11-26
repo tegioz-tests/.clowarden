@@ -33,3 +33,9 @@ repositories:
       team3: admin
     external_collaborators: {}
     visibility: private
+  - name: sample-repo-2
+    teams:
+      team1: admin
+    external_collaborators:
+      Comonitor1: triage
+    visibility: private
