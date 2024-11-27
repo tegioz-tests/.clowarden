@@ -37,4 +37,5 @@ repositories:
       team3: admin
     external_collaborators:
       Clomonitor2: triage
+      CLOMOnitor100: read
     visibility: private
