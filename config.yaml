@@ -19,6 +19,7 @@ teams:
       - tegioz
     members:
       - Clomonitor1
+      - CLOMonitor100
 repositories:
   - name: .github
     external_collaborators: {}
