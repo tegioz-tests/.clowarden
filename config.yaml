@@ -17,7 +17,6 @@ teams:
   - name: team4
     maintainers:
       - tegioz
-      - Cynthia-SG
     members:
       - ClomonitOR1
 repositories:
