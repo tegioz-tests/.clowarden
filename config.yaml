@@ -18,7 +18,7 @@ teams:
     maintainers:
       - tegioz
     members:
-      - ClomonitOR1
+      - Clomonitor1
 repositories:
   - name: .github
     external_collaborators: {}
@@ -36,5 +36,5 @@ repositories:
     teams:
       team3: admin
     external_collaborators:
-      CloMONitor2: triage
+      Clomonitor2: triage
     visibility: private
