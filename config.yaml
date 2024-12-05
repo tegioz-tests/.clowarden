@@ -19,11 +19,6 @@ teams:
       - tegioz
     members:
       - Clomonitor1
-  - name: team5
-    maintainers:
-      - cynthia-sg
-    members:
-      - Clomonitor5
 repositories:
   - name: .github
     external_collaborators: {}
