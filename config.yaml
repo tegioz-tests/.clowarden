@@ -19,6 +19,9 @@ teams:
       - tegioz
     members:
       - Clomonitor1
+  - name: test
+    maintainers:
+      - cynthia-sg
 repositories:
   - name: .github
     external_collaborators: {}
