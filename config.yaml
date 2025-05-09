@@ -19,8 +19,15 @@ teams:
       - tegioz
     members:
       - Clomonitor1
+      - Clomonitor2
   - name: team5
     maintainers:
+      - cynthia-sg
+  - name: team7
+    maintainers:
+      - tegioz
+    members:
+      - Clomonitor8
       - cynthia-sg
 repositories:
   - name: .github
@@ -38,6 +45,7 @@ repositories:
   - name: sample-repo
     teams:
       team3: admin
+      team7: read
     external_collaborators:
       Clomonitor2: triage
       Clomonitor3: read
