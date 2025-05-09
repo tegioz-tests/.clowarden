@@ -26,6 +26,7 @@ teams:
   - name: team7
     maintainers:
       - Clomonitor8
+      - tegioz
     members:
       - cynthia-sg
 repositories:
