@@ -42,3 +42,6 @@ repositories:
       Clomonitor2: triage
       Clomonitor3: read
     visibility: private
+  - name: new-private-repo
+    teams:
+      team5: maintain
