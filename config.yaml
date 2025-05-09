@@ -25,9 +25,9 @@ teams:
       - cynthia-sg
   - name: team7
     maintainers:
-      - Clomonitor8
       - tegioz
     members:
+      - Clomonitor8
       - cynthia-sg
 repositories:
   - name: .github
