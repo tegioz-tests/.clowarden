@@ -23,7 +23,7 @@ teams:
   - name: team5
     maintainers:
       - cynthia-sg
-  - team7:
+  - name: team7
     maintainers:
       - Clomonitor8
     members:
