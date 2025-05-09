@@ -39,6 +39,7 @@ repositories:
   - name: sample-repo
     teams:
       team3: admin
+      team7: read
     external_collaborators:
       Clomonitor2: triage
       Clomonitor3: read
