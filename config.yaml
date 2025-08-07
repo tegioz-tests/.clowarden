@@ -23,7 +23,7 @@ teams:
     maintainers:
       - cynthia-sg
     members:
-      - clomonitor4
+      - Clomonitor4
 repositories:
   - name: .github
     external_collaborators: {}
