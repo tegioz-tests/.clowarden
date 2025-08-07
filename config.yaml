@@ -23,6 +23,7 @@ teams:
     maintainers:
       - cynthia-sg
     members:
+      - Clomonitor2
       - Clomonitor4
 repositories:
   - name: .github
