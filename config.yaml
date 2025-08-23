@@ -35,6 +35,7 @@ repositories:
   - name: gitvote-tests
     teams:
       team2: read
+      team1: triage
     external_collaborators: {}
     visibility: private
   - name: sample-repo
