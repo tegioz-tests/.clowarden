@@ -11,11 +11,6 @@ teams:
     members: []
   - name: team3
     maintainers:
-      - cynthia-sg
-    members:
-      - Clomonitor1
-  - name: team4
-    maintainers:
       - tegioz
     members:
       - Clomonitor1
