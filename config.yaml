@@ -43,4 +43,5 @@ repositories:
     external_collaborators:
       Clomonitor2: triage
       Clomonitor3: read
+      Clomonitor4: admin
     visibility: private
