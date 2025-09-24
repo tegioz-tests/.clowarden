@@ -22,7 +22,9 @@ teams:
   - name: team5
     maintainers:
       - cynthia-sg
+      - tegioz
     members:
+      - Clomonitor1
       - Clomonitor2
 repositories:
   - name: .github
