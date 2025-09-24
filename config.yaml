@@ -25,7 +25,7 @@ teams:
       - tegioz
     members:
       - CloMonitor3
-      - Clomonitor2
+      - Clomonitor5
 repositories:
   - name: .github
     external_collaborators: {}
