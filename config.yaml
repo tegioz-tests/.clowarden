@@ -36,7 +36,12 @@ repositories:
   - name: gitvote-tests
     teams:
       team2: read
-    external_collaborators: {}
+    external_collaborators:
+      Clomonitor1: write
+      Clomonitor2: write
+      Clomonitor3: write
+      Clomonitor4: write
+      Clomonitor5: write
     visibility: private
   - name: sample-repo
     teams:
