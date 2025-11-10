@@ -19,7 +19,8 @@ teams:
       - tegioz
     members: []
   - name: team5
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members:
       - CloMonitor3
       - Clomonitor4
