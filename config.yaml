@@ -24,7 +24,12 @@ teams:
       - tegioz
     members:
       - CloMonitor3
+      - Clomonitor4
       - Clomonitor5
+  - name: team6
+    maintainers:
+      - Clomonitor1
+    members: []
 repositories:
   - name: .github
     external_collaborators: {}
@@ -40,9 +45,7 @@ repositories:
       Clomonitor1: write
       Clomonitor2: write
       Clomonitor3: write
-      Clomonitor4: write
-      Clomonitor5: write
-      Clomonitor6: triage
+      Clomonitor7: triage
     visibility: private
   - name: sample-repo
     teams:
