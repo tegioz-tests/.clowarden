@@ -24,6 +24,7 @@ teams:
       - tegioz
     members:
       - CloMonitor3
+      - Clomonitor4
       - Clomonitor5
 repositories:
   - name: .github
