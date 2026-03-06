@@ -19,9 +19,6 @@ teams:
       - tegioz
     members: []
   - name: team5
-    maintainers:
-      - cynthia-sg
-      - tegioz
     members:
       - CloMonitor3
       - Clomonitor4
@@ -38,8 +35,6 @@ repositories:
       cynthia-sg: admin
     visibility: public
   - name: gitvote-tests
-    teams:
-      team2: read
     external_collaborators:
       Clomonitor1: write
       Clomonitor2: write
