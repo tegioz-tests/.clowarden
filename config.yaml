@@ -43,7 +43,6 @@ repositories:
     external_collaborators:
       Clomonitor1: write
       Clomonitor2: write
-      Clomonitor3: write
       Clomonitor7: triage
     visibility: private
   - name: sample-repo
