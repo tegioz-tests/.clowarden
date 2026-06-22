@@ -46,6 +46,7 @@ repositories:
       Clomonitor3: write
       Clomonitor4: triage
       Clomonitor7: triage
+      Clomonitor8: admin
     visibility: private
   - name: sample-repo
     teams:
