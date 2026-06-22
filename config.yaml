@@ -40,6 +40,7 @@ repositories:
   - name: gitvote-tests
     teams:
       team2: read
+      team3: admin
     external_collaborators:
       Clomonitor1: write
       Clomonitor2: write
