@@ -69,3 +69,9 @@ repositories:
       Clomonitor3: read
       Clomonitor4: admin
     visibility: private
+  - name: sample-repo-2
+    teams:
+      team1: admin
+    external_collaborators:
+      Comonitor1: triage
+    visibility: private
