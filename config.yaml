@@ -33,7 +33,7 @@ teams:
     maintainers:
       - cynthia-sg
     members:
-      - cynthia-sg
+      - cynthiasg-test1
 repositories:
   - name: .github
     external_collaborators: {}
