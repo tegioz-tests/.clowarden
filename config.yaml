@@ -30,7 +30,8 @@ teams:
       - Clomonitor1
     members: []
   - name: team7
-    maintainers: []
+    maintainers:
+      - cynthia-SG
     members:
       - cynthia-sg
 repositories:
