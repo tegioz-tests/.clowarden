@@ -31,7 +31,7 @@ teams:
     members: []
   - name: team7
     maintainers:
-      - cynthia-SG
+      - cynthia-sg
     members:
       - cynthia-sg
 repositories:
