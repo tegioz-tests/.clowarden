@@ -23,7 +23,7 @@ teams:
       - cynthia-sg
       - tegioz
     members:
-      - CloMonitor3
+      - Clomonitor3
       - Clomonitor4
   - name: team6
     maintainers:
@@ -32,7 +32,7 @@ teams:
   - name: team7
     maintainers:
       - cynthia-sg
-    members: [
+    members:
       - cynthiasg-test1
 repositories:
   - name: .github
