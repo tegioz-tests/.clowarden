@@ -37,6 +37,8 @@ teams:
   - name: team9
     maintainers:
       - cynthia-sg
+    members:
+      - clomonitor2
     formation:
       - team3
 repositories:
