@@ -63,10 +63,10 @@ repositories:
     teams:
       team3: admin
       team8: read
-      tem9: read
     external_collaborators:
       Clomonitor3: read
       Clomonitor4: admin
+      Clomonitor5: read
     visibility: private
   - name: sample-repo-2
     teams:
