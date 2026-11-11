@@ -83,11 +83,11 @@ repositories:
     external_collaborators:
       Clomonitor3: read
       Clomonitor4: admin
-      Clomonitor8: triage
+      Clomonitor8: write
     visibility: private
   - name: sample-repo-5
     teams:
-      team8: write
+      team8: maintain
     external_collaborators:
       Clomonitor8: read
-    visibility: private
+    visibility: public
