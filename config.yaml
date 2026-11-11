@@ -34,6 +34,11 @@ teams:
       - cynthia-sg
     members:
       - cynthiasg-test1
+  - name: team9
+    maintainers:
+      - cynthia-sg
+    formation:
+      - ghost-team
 repositories:
   - name: .github
     external_collaborators: {}
