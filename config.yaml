@@ -34,13 +34,12 @@ teams:
       - cynthia-sg
     members:
       - cynthiasg-test1
-  - name: team8
+  - name: Team8
     maintainers:
       - cynthia-sg
     members:
       - Clomonitor1
       - Clomonitor2
-      - cynthia-sg
 repositories:
   - name: .github
     external_collaborators: {}
