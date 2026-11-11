@@ -86,4 +86,3 @@ repositories:
     visibility: private
   - name: bad name
     visibility: private
-    visibility: private
