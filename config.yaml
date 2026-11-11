@@ -35,9 +35,7 @@ teams:
     members:
       - cynthiasg-test1
   - name: team8
-    maintainers:
-      - cynthia-sg
-    members: [
+    members:
       - Clomonitor1
       - Clomonitor2
 repositories:
