@@ -38,7 +38,7 @@ teams:
     maintainers:
       - cynthia-sg
     formation:
-      - ghost-team
+      - team3
 repositories:
   - name: .github
     external_collaborators: {}
@@ -83,4 +83,7 @@ repositories:
   - name: sample-repo-5
     external_collaborators:
       Clomonitor8: read
+    visibility: private
+  - name: bad name
+    visibility: private
     visibility: private
