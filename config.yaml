@@ -32,10 +32,8 @@ teams:
   - name: team7
     maintainers:
       - cynthia-sg
-      - Clomonitor1
     members:
       - cynthiasg-test1
-      - Clomonitor4
   - name: team8
     maintainers:
       - cynthia-sg
@@ -64,7 +62,6 @@ repositories:
   - name: sample-repo
     teams:
       team3: admin
-      team8: read
     external_collaborators:
       Clomonitor3: read
       Clomonitor4: admin
@@ -83,11 +80,10 @@ repositories:
     external_collaborators:
       Clomonitor3: read
       Clomonitor4: admin
-      Clomonitor8: write
     visibility: private
   - name: sample-repo-5
     teams:
       team8: maintain
     external_collaborators:
       Clomonitor8: read
-    visibility: public
+    visibility: private
