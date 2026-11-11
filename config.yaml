@@ -34,7 +34,13 @@ teams:
       - cynthia-sg
     members:
       - cynthiasg-test1
-  - name: Team8
+  - name: team8
+    maintainers:
+      - cynthia-sg
+    members:
+      - Clomonitor1
+      - Clomonitor2
+  - name: team8
     maintainers:
       - cynthia-sg
     members:
