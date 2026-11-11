@@ -32,7 +32,7 @@ teams:
   - name: team7
     maintainers:
       - cynthia-sg
-    members:
+    members: [
       - cynthiasg-test1
 repositories:
   - name: .github
