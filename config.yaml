@@ -35,9 +35,12 @@ teams:
     members:
       - cynthiasg-test1
   - name: team8
+    maintainers:
+      - cynthia-sg
     members:
       - Clomonitor1
       - Clomonitor2
+      - cynthia-sg
 repositories:
   - name: .github
     external_collaborators: {}
