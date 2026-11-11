@@ -86,5 +86,7 @@ repositories:
     external_collaborators:
       Clomonitor8: read
     visibility: private
-  - name: bad name
+  - name: sample-repo-6
+    external_collaborators:
+      clomonitor8: read
     visibility: private
