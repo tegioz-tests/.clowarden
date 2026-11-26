@@ -26,10 +26,6 @@ teams:
     members:
       - Clomonitor3
       - Clomonitor4
-  - name: team6
-    maintainers:
-      - Clomonitor1
-    members: []
   - name: team7
     maintainers:
       - cynthia-sg
