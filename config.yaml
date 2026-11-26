@@ -18,7 +18,8 @@ teams:
   - name: team4
     maintainers:
       - tegioz
-    members: []
+    members:
+      - Clomonitor5
   - name: team5
     maintainers:
       - cynthia-sg
