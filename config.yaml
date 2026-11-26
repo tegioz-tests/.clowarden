@@ -1,124 +1,164 @@
 organization: tegioz-tests
 teams:
   - name: bulk-001
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-002
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-003
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-004
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-005
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-006
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-007
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-008
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-009
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-010
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-011
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-012
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-013
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-014
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-015
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-016
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-017
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-018
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-019
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-020
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-021
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-022
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-023
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-024
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-025
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-026
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-027
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-028
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-029
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-030
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-031
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-032
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-033
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-034
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-035
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-036
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-037
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-038
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-039
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: bulk-040
-    maintainers: []
+    maintainers:
+      - cynthia-sg
     members: []
   - name: team1
     maintainers:
