@@ -1,5 +1,125 @@
 organization: tegioz-tests
 teams:
+  - name: bulk-001
+    maintainers: []
+    members: []
+  - name: bulk-002
+    maintainers: []
+    members: []
+  - name: bulk-003
+    maintainers: []
+    members: []
+  - name: bulk-004
+    maintainers: []
+    members: []
+  - name: bulk-005
+    maintainers: []
+    members: []
+  - name: bulk-006
+    maintainers: []
+    members: []
+  - name: bulk-007
+    maintainers: []
+    members: []
+  - name: bulk-008
+    maintainers: []
+    members: []
+  - name: bulk-009
+    maintainers: []
+    members: []
+  - name: bulk-010
+    maintainers: []
+    members: []
+  - name: bulk-011
+    maintainers: []
+    members: []
+  - name: bulk-012
+    maintainers: []
+    members: []
+  - name: bulk-013
+    maintainers: []
+    members: []
+  - name: bulk-014
+    maintainers: []
+    members: []
+  - name: bulk-015
+    maintainers: []
+    members: []
+  - name: bulk-016
+    maintainers: []
+    members: []
+  - name: bulk-017
+    maintainers: []
+    members: []
+  - name: bulk-018
+    maintainers: []
+    members: []
+  - name: bulk-019
+    maintainers: []
+    members: []
+  - name: bulk-020
+    maintainers: []
+    members: []
+  - name: bulk-021
+    maintainers: []
+    members: []
+  - name: bulk-022
+    maintainers: []
+    members: []
+  - name: bulk-023
+    maintainers: []
+    members: []
+  - name: bulk-024
+    maintainers: []
+    members: []
+  - name: bulk-025
+    maintainers: []
+    members: []
+  - name: bulk-026
+    maintainers: []
+    members: []
+  - name: bulk-027
+    maintainers: []
+    members: []
+  - name: bulk-028
+    maintainers: []
+    members: []
+  - name: bulk-029
+    maintainers: []
+    members: []
+  - name: bulk-030
+    maintainers: []
+    members: []
+  - name: bulk-031
+    maintainers: []
+    members: []
+  - name: bulk-032
+    maintainers: []
+    members: []
+  - name: bulk-033
+    maintainers: []
+    members: []
+  - name: bulk-034
+    maintainers: []
+    members: []
+  - name: bulk-035
+    maintainers: []
+    members: []
+  - name: bulk-036
+    maintainers: []
+    members: []
+  - name: bulk-037
+    maintainers: []
+    members: []
+  - name: bulk-038
+    maintainers: []
+    members: []
+  - name: bulk-039
+    maintainers: []
+    members: []
+  - name: bulk-040
+    maintainers: []
+    members: []
   - name: team1
     maintainers:
       - tegioz
