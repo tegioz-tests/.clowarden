@@ -8,7 +8,8 @@ teams:
   - name: team2
     maintainers:
       - tegioz
-    members: []
+    members:
+      - Clomonitor5
   - name: team3
     maintainers:
       - cynthia-sg
