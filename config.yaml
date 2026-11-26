@@ -51,12 +51,12 @@ repositories:
       Clomonitor1: write
       Clomonitor2: write
       Clomonitor3: write
-      Clomonitor4: triage
+      Clomonitor4: read        # T06: was triage
       Clomonitor5: admin
     visibility: private
   - name: sample-repo
     teams:
-      team3: admin
+      team3: write             # T06: was admin
     external_collaborators:
       Clomonitor3: read
       Clomonitor4: admin
@@ -66,8 +66,7 @@ repositories:
       team3: admin
     external_collaborators:
       Clomonitor3: read
-      Clomonitor4: admin
-      Clomonitor8: triage
+      Clomonitor4: admin       # T06: Clomonitor8 (triage) removed
     visibility: private
   - name: sample-repo-3
     teams:
@@ -77,6 +76,8 @@ repositories:
       Clomonitor4: admin
     visibility: private
   - name: sample-repo-5
+    teams:                     # T06: new
+      team4: read
     external_collaborators:
       Clomonitor8: read
     visibility: private
