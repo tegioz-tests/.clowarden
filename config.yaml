@@ -1,5 +1,17 @@
 organization: tegioz-tests
 teams:
+  - name: zz-sort
+    maintainers:
+      - cynthia-sg
+    members: []
+  - name: aa-sort
+    maintainers:
+      - cynthia-sg
+    members: []
+  - name: mm-sort
+    maintainers:
+      - cynthia-sg
+    members: []
   - name: team1
     maintainers:
       - tegioz
