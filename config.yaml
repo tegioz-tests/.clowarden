@@ -17,6 +17,8 @@ teams:
       - Clomonitor5
   - name: team4
     maintainers:
+      - clowarden-no-such-user-zz9
+    maintainers:
       - tegioz
     members:
       - Clomonitor5
