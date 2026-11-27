@@ -84,6 +84,8 @@ repositories:
       Clomonitor4: admin
     visibility: private
   - name: sample-repo-5
+    teams:
+      team99: read
     teams:                     # T06: new
       team4: read
     external_collaborators:
